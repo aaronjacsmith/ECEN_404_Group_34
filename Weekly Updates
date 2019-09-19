@@ -1,5 +1,6 @@
 Week of 9/9:
 App updated to connect to C5545 DSP board
+Ongoing work to switch to from Raspberry Pi to TI Launchpad/Boosterpack
 
 
 Week of 9/16:
@@ -7,4 +8,10 @@ Week of 9/16:
 Mobile Application (Aaron Smith):
 Working on reading current battery level to display to GUI
 Signals can be sent from Samsung Galaxy S8 to BoosterPack, need to be able to read signals from BoosterPack on Launchpad to
-  enable/disable effects
+ enable/disable effects
+
+Digital Signal Processing (Adrian Hernandez):
+Switch from Raspberry Pi to TI Launchpad almost complete. Sampling analog signal with 14-bit resolution 
+at 50k samples per second. It is much better than what could be achieved with the RPi. What's next is 
+integrating Aaron's Bluetooth software to control effects. The software will check for an input from the Bluetooth module 
+periodically (every second or less). Then the data will be sent to the audio out on the BoosterPack.
