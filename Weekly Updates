@@ -9,6 +9,7 @@ Mobile Application (Aaron Smith):
 Working on reading current battery level to display to GUI
 Signals can be sent from Samsung Galaxy S8 to BoosterPack, need to be able to read signals from BoosterPack on Launchpad to
  enable/disable effects
+ 
 
 Digital Signal Processing (Adrian Hernandez):
 Switch from Raspberry Pi to TI Launchpad almost complete. Sampling analog signal with 14-bit resolution 
