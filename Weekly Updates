@@ -1,2 +1,7 @@
 Week of 9/9:
 App updated to connect to C5545 DSP board
+
+Week of 9/16:
+Working on reading current battery level to display to GUI
+Signals can be sent from Samsung Galaxy S8 to BoosterPack, need to be able to read signals from BoosterPack on Launchpad to
+  enable/disable effects
