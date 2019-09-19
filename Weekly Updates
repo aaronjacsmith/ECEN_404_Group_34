@@ -15,3 +15,10 @@ Switch from Raspberry Pi to TI Launchpad almost complete. Sampling analog signal
 at 50k samples per second. It is much better than what could be achieved with the RPi. What's next is 
 integrating Aaron's Bluetooth software to control effects. The software will check for an input from the Bluetooth module 
 periodically (every second or less). Then the data will be sent to the audio out on the BoosterPack.
+
+
+Analog Amplification (John Cain):
+Waiting on PCB to be printed to solder (request sent)
+Integrating w/ power subsystem using old PCB (until new one is processed)
+Working on physical integration while waiting for new PCB
+
