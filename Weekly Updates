@@ -9,7 +9,6 @@ Mobile Application (Aaron Smith):
 Working on reading current battery level to display to GUI
 Signals can be sent from Samsung Galaxy S8 to BoosterPack, need to be able to read signals from BoosterPack on Launchpad to
  enable/disable effects
- 
 
 Digital Signal Processing (Adrian Hernandez):
 Switch from Raspberry Pi to TI Launchpad almost complete. Sampling analog signal with 14-bit resolution 
@@ -23,3 +22,9 @@ Waiting on PCB to be printed to solder (request sent)
 Integrating w/ power subsystem using old PCB (until new one is processed)
 Working on physical integration while waiting for new PCB
 
+Power Subsystem (Samuel DeHoyos):
+Power distribution designed and prepared for other subsytems using low power power distribution block and converters
+from last semester.
+Moving forward, I am going to work on designing the housing for all electrical components in the backpack and find a solution
+to mounting the solar panels onto the front of the backpack. In addition to this, I will also be trying to help my team 
+members with their subsystems.
