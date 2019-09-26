@@ -3,6 +3,7 @@ App updated to connect to C5545 DSP board
 Ongoing work to switch to from Raspberry Pi to TI Launchpad/Boosterpack
 
 
+
 Week of 9/16:
 
 Mobile Application (Aaron Smith):
@@ -16,7 +17,6 @@ at 50k samples per second. It is much better than what could be achieved with th
 integrating Aaron's Bluetooth software to control effects. The software will check for an input from the Bluetooth module 
 periodically (every second or less). Then the data will be sent to the audio out on the BoosterPack.
 
-
 Analog Amplification (John Cain):
 Waiting on PCB to be printed to solder (request sent)
 Integrating w/ power subsystem using old PCB (until new one is processed)
@@ -28,3 +28,21 @@ from last semester.
 Moving forward, I am going to work on designing the housing for all electrical components in the backpack and find a solution
 to mounting the solar panels onto the front of the backpack. In addition to this, I will also be trying to help my team 
 members with their subsystems.
+
+
+
+Week of 9/23:
+Mobile Application (Aaron Smith):
+
+
+Digital Signal Processing (Adrian Hernandez):
+Still working on communication between Launchpad and BoosterPack. 
+To be completed by next week.
+
+
+Analog Amplification (John Cain):
+Waiting on PCB order to be processed still
+Still finalizing integration with power subsystem
+
+
+Power Subsystem (Samuel DeHoyos):
