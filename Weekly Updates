@@ -55,7 +55,9 @@ backpack.
 
 Week of 10/1
 Mobile Application (Aaron Smith):
-
+Integration with DSP system is priority, need to allow MCU to trigger effects when sent a command from the app. Once DSP code
+is finalized presets will be set up accordingly (not much needed to complete this) and tested to ensure multiple triggered 
+effects work smoothly. 
 
 Digital Signal Processing (Adrian Hernandez):
 
