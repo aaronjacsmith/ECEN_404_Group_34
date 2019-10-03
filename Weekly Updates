@@ -64,5 +64,7 @@ Analog Amplification (John Cain):
 
 
 Power Subsystem (Samuel DeHoyos):
-
+Integration with amplifier PCB tested and finalized, will be completed once new PCB is populated. Yet to be tested with DSP 
+system, but will not be difficult. Focus this week is to create sleeve for solar panels and finish creating USB output for 
+user to charge their devices.
 
