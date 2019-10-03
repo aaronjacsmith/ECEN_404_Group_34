@@ -60,7 +60,9 @@ is finalized presets will be set up accordingly (not much needed to complete thi
 effects work smoothly. 
 
 Digital Signal Processing (Adrian Hernandez):
-
+Communication between Launchpad and BoosterPack successful in preparation for Bluetooth. The main priority now is making 
+sure the effects are triggered by the app. Currently working on sending the signal from the Launchpad to the Boosterpack's 
+audio codec to use as audio out.
 
 Analog Amplification (John Cain):
 
