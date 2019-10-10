@@ -72,3 +72,9 @@ Integration with amplifier PCB tested and finalized, will be completed once new 
 system, but will not be difficult. Focus this week is to create sleeve for solar panels and finish creating USB output for 
 user to charge their devices.
 
+
+Week of 10/7
+Mobile Application (Aaron Smith):
+Explored possible options for communication between DSP board and application, finalized idea to be implemented. Have tested
+control from app to board and all seems good, with a bit of error (assuming this is just poor connectivity to bluetooth 
+module, will be worked on further). 
