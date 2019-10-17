@@ -95,3 +95,5 @@ Continuing to solder
 Ordered potentionmeter and guitar amp input
 Preparing for Blitz
 
+Digital Signal Processing (Adrian Hernandez):
+Data from main board transferred to BoosterPack. Working on sending data to the audio codec for output.
