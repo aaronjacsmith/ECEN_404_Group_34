@@ -102,3 +102,8 @@ Week of 10/21
 Digital Signal Processing (Adrian Hernandez):
 We're back to using a RPi to implement the digital effects using a circuit and algorithms developed last semester. Waiting on 
 the PCB to test whole system. Working on Bluetooth connection to switch between effects to be completed within next couple of days.
+
+Power Subsystem (Samuel DeHoyos):
+Audio converter PCB for RPi has been designed and ordered. To come in early next week. Goal is to finish populating my PCB
+and testing it before presentation next Wednesday. Power splicers came in; can now prepare power subsystem for final integration.
+While waiting, I will be working on getting the backpack and power system ready.
