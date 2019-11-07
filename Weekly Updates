@@ -107,3 +107,12 @@ Power Subsystem (Samuel DeHoyos):
 Audio converter PCB for RPi has been designed and ordered. To come in early next week. Goal is to finish populating my PCB
 and testing it before presentation next Wednesday. Power splicers came in; can now prepare power subsystem for final integration.
 While waiting, I will be working on getting the backpack and power system ready.
+
+
+
+Week of 11/4
+Power Subsystem (Samuel DeHoyos):
+Error with audio converter PCB has caused several design changes and a reorder of the PCB. The board should come in tomorrow. 
+I have been putting all of my extra time into preparing the other parts of the project for full integration. The power supply
+subsystem is ready and has proven to power the other subsystems. As for the PCB, there seems to be a wrong connection that is 
+causing incorrect signals at several locations on the board. 
