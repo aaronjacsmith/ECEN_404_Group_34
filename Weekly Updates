@@ -125,3 +125,8 @@ for quite some time. As soon as the board came in, the team came together and po
 PCB layout/design works as expected and so all that needs to be done now is collect more validation data and house all 
 componenets into the backpack. 
 
+Digital Signal Processing (Adrian Hernandez):
+Full integration was tested early in the week. Analog to digital conversion works as expected. Effects work as expected and they
+are triggered via the app. Currently testing the amplification and speaker systems to make sure no unnecessary distortion is added
+and speakers are loud enough for our purposes.
+
