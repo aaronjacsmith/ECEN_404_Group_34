@@ -116,3 +116,12 @@ Error with audio converter PCB has caused several design changes and a reorder o
 I have been putting all of my extra time into preparing the other parts of the project for full integration. The power supply
 subsystem is ready and has proven to power the other subsystems. As for the PCB, there seems to be a wrong connection that is 
 causing incorrect signals at several locations on the board. 
+
+
+Week of 11/11
+Power Subsystem (Samuel DeHoyos):
+The new PCB came in late on Tuesday. There were two delays with the delivery that were unexpected and so progress was halted
+for quite some time. As soon as the board came in, the team came together and populated it, and tested full integration. My 
+PCB layout/design works as expected and so all that needs to be done now is collect more validation data and house all 
+componenets into the backpack. 
+
