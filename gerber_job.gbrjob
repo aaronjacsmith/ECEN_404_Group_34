@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-03T18:53:00Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PiBoosterBoard"
+        },
+        "Owner": "Sdehoyos47 Sdehoyos47 <sdehoyos47@tamu.edu>",
+        "Size": {
+            "X": 79.99,
+            "Y": 70.79
+        }
+    }
+}
