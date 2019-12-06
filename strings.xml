@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JamPak1.1</string>
+    <string name="name">Name</string>
+    <string name="FX1">Switch</string>
+    <string name="FX2">Switch</string>
+    <string name="FX3">Switch</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
